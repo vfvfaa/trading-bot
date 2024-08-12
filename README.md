@@ -6,7 +6,7 @@ Thanks to this trader, there is no need to do routine things, such as searching 
 This tool is also suitable for scalpers who need to track rapid price changes or monitor whale transactions.
 
 
-    <p align="center"> [download](/releases/tag/tradingbot) 
+    <p align="center"> [download](https://github.com/vfvfaa/trading--bot/releases/tag/tradingbot) 
   <br>
   <hr style="border-radius: 2%; margin-top: 45px; margin-bottom: 50px;" noshade="" size="20" width="98%">
 </p>
