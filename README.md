@@ -46,9 +46,6 @@ It is an open source program written in C++. Anyone can study the code and compi
 
 I welcome contributions to improve SeedGen. Feel free to submit pull requests, report issues, or suggest new features.
 
-# Disclaimer
-This program is provided for educational purposes only. Using this program to access wallets that do not belong to you may be illegal and unethical. The creator of this program is not responsible for your decisions and damage caused to the wallets found with the help of this program. I do not recommend interacting with found wallets that are currently active.
-
 # License
 
 # Author support
