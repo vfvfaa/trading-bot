@@ -44,7 +44,7 @@ It is an open source program written in C++. Anyone can study the code and compi
 
 # Contributing
 
-I welcome contributions to improve SeedGen. Feel free to submit pull requests, report issues, or suggest new features.
+I welcome contributions to improve TradingBot. Feel free to submit pull requests, report issues, or suggest new features.
 
 # License
 
