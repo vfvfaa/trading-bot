@@ -8,7 +8,7 @@ int main()
 {
 	int send_id;
 	std::string webhook;
-	std::string token, user_id;
+	std::string token = "", user_id = "";
 
 	std::string info = "[Crypto-Trading Bot] - by Trandor";
 	SetConsoleTitleA(info.c_str());
